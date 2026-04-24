@@ -1,0 +1,10 @@
+torch
+torch-geometric
+rdkit
+chembl-webresource-client
+pandas
+numpy
+scikit-learn
+matplotlib
+optuna
+jupyter

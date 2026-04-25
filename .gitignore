@@ -26,7 +26,8 @@ checkpoints/
 *.ckpt
 
 # Data
-data/
+data/*
+!data/.gitkeep
 
 # Logs & outputs
 logs/

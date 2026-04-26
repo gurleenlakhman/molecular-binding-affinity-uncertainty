@@ -42,3 +42,10 @@ Thumbs.db
 # Results
 results/*
 !results/.gitkeep
+
+# PyTorch checkpoints & model files
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+!results/*.pt

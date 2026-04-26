@@ -49,3 +49,4 @@ checkpoints/
 *.pth
 *.ckpt
 !results/*.pt
+!results/*.png

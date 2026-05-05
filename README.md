@@ -72,3 +72,5 @@ molprop-uq/
 ├── environment.yml
 └── requirements.txt
 ```
+
+For a full project report including results, plots, and key findings see [REPORT.md](REPORT.md).
